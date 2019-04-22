@@ -27,6 +27,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 
+#include <cstring>
 #include <memory>
 #include <mutex>
 #include <string>

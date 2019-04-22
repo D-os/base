@@ -16,6 +16,7 @@
 
 #include "android-base/scopeguard.h"
 
+#include <functional>
 #include <utility>
 #include <vector>
 

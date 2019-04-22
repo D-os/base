@@ -36,6 +36,7 @@
 #include <sys/uio.h>
 #endif
 
+#include <cstring>
 #include <iostream>
 #include <limits>
 #include <mutex>
