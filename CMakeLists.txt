@@ -43,3 +43,5 @@ target_include_directories(libbase_tests PUBLIC
   "${EXTERNAL_GOOGLETEST_DIR}/googlemock/include"
 )
 target_link_libraries(libbase_tests gtest_main gtest base)
+
+gtest_discover_tests(libbase_tests)
